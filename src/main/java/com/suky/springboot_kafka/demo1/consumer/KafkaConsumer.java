@@ -1,4 +1,4 @@
-package com.suky.springboot_kafka.consumer;
+package com.suky.springboot_kafka.demo1.consumer;
 
 import com.suky.springboot_kafka.model.KafkaModel;
 import org.springframework.kafka.annotation.KafkaListener;
